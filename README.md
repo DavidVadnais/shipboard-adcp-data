@@ -1,5 +1,5 @@
 # shipboard-adcp-data
-Pushing shipboard ADCP data. Lets raise the profile of ocean currents!
+Pushing shipboard ADCP data. I believe that with more awareness of the ADCP tools/data scientific outcomes in oceanography could be improved. Lets raise the profile of ocean currents!
 
 ## Sources
 * [Hawaii Ocean Time-series](https://currents.soest.hawaii.edu/hot/index.html)
@@ -15,3 +15,16 @@ Pushing shipboard ADCP data. Lets raise the profile of ocean currents!
 * https://www.kaggle.com/code/davidvadnais/hawaii-ocean-times-series
 ### Datasets 
 * https://www.kaggle.com/datasets/davidvadnais/hawaii-ocean-times-series-shipboard-adcp-data
+
+
+## Social links to spread data/[pycurrents](https://currents.soest.hawaii.edu/hg/pycurrents/)
+### dev.to
+
+
+### reddit
+Note: reddit requires that less then 10% of posts are self-promotion.
+* Oceanography
+    * https://old.reddit.com/r/oceanography/comments/1gs3fqv/explore_hawaiis_ocean_currents_new_shipboard_adcp/
+
+### x
+Apparently science twitter is big.  This is another vector to explore.
