@@ -1,7 +1,13 @@
 # shipboard-adcp-data
 Pushing shipboard ADCP data. I believe that with more awareness of the ADCP tools/data scientific outcomes in oceanography could be improved. Lets raise the profile of ocean currents!
 
-## Sources
+Please note this is a personal project and not an official UH project.
+
+## Useful links
+* [repos](https://currents.soest.hawaii.edu/hg/)
+* [CODAS+UHDAS Documentation](https://currents.soest.hawaii.edu/docs/adcp_doc/index.html)
+
+### Data Sources
 * [Hawaii Ocean Time-series](https://currents.soest.hawaii.edu/hot/index.html)
 * [Falkor](https://currents.soest.hawaii.edu/falkor/)
 * [Falkor Too](https://currents.soest.hawaii.edu/falkortoo/)
